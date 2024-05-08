@@ -5,5 +5,6 @@
 - 🌱 I’m currently learning Java/Spring Boot
 - 😄 Pronouns: she/her
 
-<!-- GithubStats -->
-![ligiaviana GitHub stats](https://github-readme-stats.vercel.app/api?username=ligiaviana&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ligiaviana&layout=donut-vertical)](https://github.com/ligiaviana/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ligiaviana)](https://github.com/ligiaviana/github-readme-stats)
