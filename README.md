@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 👋 
+### I'm Lígia Viana
 
-<!--
-**ligiaviana/ligiaviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Java/Spring Boot Projects
+- 🌱 I’m currently learning Java/Spring Boot
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+<!-- GithubStats -->
+![ligiaviana GitHub stats](https://github-readme-stats.vercel.app/api?username=ligiaviana&show_icons=true&theme=gotham)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
